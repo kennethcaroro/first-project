@@ -25,12 +25,12 @@ export default function Home() {
         <h1 className="text">Birth Date: 03/22/2004</h1>
         <h2 className="text">Place of Birth: Calamba Misamis Occidental</h2>
         <h1 className="text">Age: 21</h1>
-        <h3 className="text"> Height: 5'3</h3>
+        <h3 className="text"> Height: 5&apos;3</h3>
         <h4 className="text"> Weight: 46kg</h4>
         <h5 className="text">Citizenship: filipino</h5>
-        <h6 className="text">Father's Name: Ovellieto L. Caroro</h6>
+        <h6 className="text">Father&apos;s Name: Ovellieto L. Caroro</h6>
         <h1 className="text"> Occupation: Decease </h1>
-        <h2 className="text"> Mother's Name: Luisita G. Caroro</h2>
+        <h2 className="text"> Mother&apos;s Name: Luisita G. Caroro</h2>
         <h3 className="text"> Occupation: Job Order (LGU) </h3>
       </div>
       <div className=" bg-white shadow-md  border-[1px] rounded-lg border-gray-500 p3 w-full h-77 ">
